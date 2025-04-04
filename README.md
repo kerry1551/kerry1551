@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kerry1551
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Java Script 
+- 🌱 I’m currently learning HTML/CSS/Java Script 
 - ⚡ Fun fact: I've been working as a teacher almost 7 years 
 
 <!---
