@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kerry1551
+- 👋 Hi, I’m Karina
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML/CSS/Java Script 
-- ⚡ Fun fact: I've been working as a teacher almost 7 years 
+- ⚡ Fun fact: I've been working as a teacher for almost 7 years 
 
 <!---
 kerry1551/kerry1551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
